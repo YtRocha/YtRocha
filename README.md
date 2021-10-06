@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi, i'm Ytallo!!
 
-<!--
-**YtRocha/YtRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome!
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm (SEU NOME)!
+
+ 
+
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+
+
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/YtRocha)](https://github.com/YtRocha)
+[Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
