@@ -8,7 +8,7 @@
 
 
 [![YtRocha GitHub stats](https://github-readme-stats.vercel.app/api?username=YtRocha&theme=midnight-purple&show_icons=true&border_radius=20&border_color&count_private=true)](https://github.com/YtRocha/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YtRocha&layout=compact&theme=midnight-purple&border_radius=20)](https://github.com/YtRocha/github-readme-stats)
+&nbsp[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YtRocha&layout=compact&theme=midnight-purple&border_radius=20)](https://github.com/YtRocha/github-readme-stats)
 
 
 <code><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
