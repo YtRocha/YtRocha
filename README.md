@@ -1,5 +1,8 @@
 
-# Hi, i'm Ytallo Daniel!! <a href="mailto:ytallo4gamer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/YtRocha)](https://t.me/YtRocha)
+# Hi, i'm Ytallo Daniel!! 
+<a href="mailto:ytallo4gamer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/YtRocha)](https://t.me/YtRocha)
+<a href="https://www.linkedin.com/in/ytrocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <p>
 :house_with_garden: I’m from Brazil.    &nbsp &nbsp &nbsp &nbsp :computer: I'm a computer engineering student.
 <img src="https://github.com/YtRocha/YtRocha/blob/main/logoytrocha.png">
